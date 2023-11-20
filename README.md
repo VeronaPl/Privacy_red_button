@@ -18,6 +18,9 @@
 
 <img width="409" alt="image" src="https://github.com/VeronaPl/Privacy_red_button/assets/93496790/10bdc22d-ca41-4c68-aaf7-d1c5f94f2bc1">
 
+<img width="626" alt="image" src="https://github.com/VeronaPl/Privacy_red_button/assets/93496790/8f535bf1-5262-45c2-9f0a-677cde829479">
+
+
 ## Частые вопросы:
 *Одно из состояний ветки*
 
