@@ -22,4 +22,5 @@
 
 ## Настройки:
 *Одно из состояний ветки*
+
 ![image](https://github.com/VeronaPl/Privacy_red_button/assets/93496790/302d3e3f-7730-404c-9b2f-2bae0a6c4355)
