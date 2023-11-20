@@ -7,14 +7,17 @@
 *3)* Настройки (информация о разработчике с контактами для сотрудничества и обратная связь, в которой пользователь может перечислить недочеты или вопросы по боту, которые сразу же бот направляет Админу в лс(разработчику)).
 
 ## Главное меню:
+
 <img width="404" alt="image" src="https://github.com/VeronaPl/Privacy_red_button/assets/93496790/b7a5adcd-51e3-4538-ae29-056b3efba27c">
 
 ## Задать вопрос:
 *Финальное состояние перед отправкой вопроса*
+
 <img width="409" alt="image" src="https://github.com/VeronaPl/Privacy_red_button/assets/93496790/10bdc22d-ca41-4c68-aaf7-d1c5f94f2bc1">
 
 ## Частые вопросы:
 *Одно из состояний ветки*
+
 ![image](https://github.com/VeronaPl/Privacy_red_button/assets/93496790/0983acd6-0fe0-48a4-9a78-ff7ee5c1b38f)
 
 ## Настройки:
